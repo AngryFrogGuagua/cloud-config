@@ -1,0 +1,4 @@
+DRIVER_CLASS_NAME: com.mysql.jdbc.Driver
+URL: jdbc:mysql://192.168.0.100:3306/dlk?useSSL=true
+USERNAME: root
+PASSWORD: root
